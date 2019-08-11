@@ -1,6 +1,6 @@
 O projeto foi desenvolvido utilizando a linguagem C# e a IDE Visual Studio.
 
-A ferramenta de testes utilizada foi a extensão Restlet Cliente - Rest API Testing no Google Chrome.
+A ferramenta de testes utilizada foi a extensão Restlet Client - Rest API Testing no Google Chrome.
 
 As URLS da API devem seguem o padrão apaixo:
 
